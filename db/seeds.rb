@@ -13,18 +13,18 @@ u.is_admin = true
 u.save
 
 p = Product.new
-p.title = "iPhone7"
+p.title = "Aeron"
 p.description = ""
 p.quantity = 100
-p.price = 6000
-p.image = "timg.jpeg"
+p.price = 8888
+p.image = "https://s3-us-west-2.amazonaws.com/jdstore-lx/Aeron.jpg"
 p.save
 
 
 p = Product.new
-p.title = "iPhone7"
+p.title = "MacBookPro13"
 p.description = ""
 p.quantity = 100
-p.price = 6000
-p.image = "timg.jpeg"
+p.price = 9999
+p.image = "https://s3-us-west-2.amazonaws.com/jdstore-lx/macbookpro.jpg"
 p.save
