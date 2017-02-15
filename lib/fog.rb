@@ -1,4 +1,4 @@
 module Fog
-
+    # :D
 
 end
