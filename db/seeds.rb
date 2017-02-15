@@ -11,3 +11,20 @@ u.password = "beijing"
 u.password_confirmation = "beijing"
 u.is_admin = true
 u.save
+
+p = Product.new
+p.title = "iPhone7"
+p.description = ""
+p.quantity = 100
+p.price = 6000
+p.image = "timg.jpeg"
+p.save
+
+
+p = Product.new
+p.title = "iPhone7"
+p.description = ""
+p.quantity = 100
+p.price = 6000
+p.image = "timg.jpeg"
+p.save
