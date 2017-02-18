@@ -13,18 +13,18 @@ u.is_admin = true
 u.save
 
 p = Product.new
-p.title = "Aeron"
+p.title = "Griffon Helmet"
 p.description = ""
 p.quantity = 100
-p.price = 8888
-p.image = "https://s3-us-west-2.amazonaws.com/jdstore-lx/Aeron.jpg"
+p.price = 2888
+p.image = "https://jdstore-seoul.s3.amazonaws.com/7v2t2.jpg"
 p.save
 
 
 p = Product.new
-p.title = "MacBookPro13"
+p.title = "Burton-Malavita"
 p.description = ""
 p.quantity = 100
-p.price = 9999
-p.image = "https://s3-us-west-2.amazonaws.com/jdstore-lx/macbookpro.jpg"
+p.price = 3000
+p.image = "https://jdstore-seoul.s3.amazonaws.com/tq9su.jpg"
 p.save
