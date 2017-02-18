@@ -19,7 +19,7 @@
 
 
 .jumbotron {
-  background-image:url('http://y.photo.qq.com/img?s=n0m7YMg0L&l=y.jpg');
+  background-image:url('https://jdstore-seoul.s3.amazonaws.com/ckxfe.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 110px;
@@ -44,4 +44,16 @@
   margin-bottom: 60px;
   text-align: center;
   color: white;
+}
+
+.caption {
+  margin: 30px;
+  text-align: center;
+  top: 20px;
+}
+
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+    margin-top: 60px;
 }
